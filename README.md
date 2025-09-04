@@ -17,8 +17,6 @@ You can open and run the notebook directly in Google Colab — no setup required
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/n4kulcodes/code-a-pookkalam/blob/main/CodeAPookkalam.ipynb)
 
-*(replace `USERNAME/REPO` with your repo name)*
-
 ---
 
 ## 📂 Project Structure
