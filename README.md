@@ -8,23 +8,24 @@ It combines math, geometry, and cultural art to create a vibrant traditional des
 ## 📸 Preview
 Here’s an example of the generated design:
 
-![Pookkalam](assets/KathakaliPookkalam.png)
+![Pookkalam](KathakaliPookkalam.png)
 
 ---
 
 ## 🚀 Run it yourself
 You can open and run the notebook directly in Google Colab — no setup required:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO/blob/main/pookkalam_matplotlib.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/n4kulcodes/code-a-pookkalam/blob/main/CodeAPookkalam.ipynb)
 
 *(replace `USERNAME/REPO` with your repo name)*
 
 ---
 
 ## 📂 Project Structure
-- `pookkalam_matplotlib.ipynb` → Main notebook (works in Google Colab/Jupyter).
-- `assets/pookkalam.png` → Example output screenshot.
+- `CodeAPookkalam.ipynb` → Main notebook (works in Google Colab/Jupyter).
+- `KathakaliPookkalamookkalam.png` → Example output screenshot.
 - `README.md` → Project description and instructions.
+-  `KathakaliPookkalam.py` → Turtle based version (works locally).
 
 *(Optional)*  
 - `pookkalam_turtle.py` → Turtle Graphics version for local execution (may not render properly in online IDEs).
