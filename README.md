@@ -1,4 +1,4 @@
-# 🌸 Onam Kathakali Pookkalam Generator
+# 🌸 Kathakalam - Onam Kathakali Pookkalam
 
 This project generates a traditional **Onam Pookkalam (flower carpet)** pattern using Python and Matplotlib.  
 It combines math, geometry, and cultural art to create a vibrant traditional design programmatically. The design features a minimalistic Kathakali face in the centre along with a "Happy Onam" text in Malayalam.
