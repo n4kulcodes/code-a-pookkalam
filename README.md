@@ -8,14 +8,14 @@ It combines math, geometry, and cultural art to create a vibrant traditional des
 ## 📸 Preview
 Here’s an example of the generated design:
 
-![Pookkalam](KathakaliPookkalam.png)
+![Pookkalam](assets/KathakaliPookkalam.png)
 
 ---
 
 ## 🚀 Run it yourself
 You can open and run the notebook directly in Google Colab — no setup required:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/n4kulcodes/code-a-pookkalam/blob/main/CodeAPookkalam.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/n4kulcodes/code-a-pookkalam/blob/main/notebooks/CodeAPookkalam.ipynb)
 
 ---
 
