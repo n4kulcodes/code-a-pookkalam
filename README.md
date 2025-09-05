@@ -13,7 +13,7 @@ Here’s an example of the generated design:
 ---
 
 ## 🚀 Run it yourself
-You can open and run the notebook directly in Google Colab — no setup required:
+You can open and run the notebook directly in Google Colab, no setup required:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/n4kulcodes/code-a-pookkalam/blob/main/notebooks/CodeAPookkalam.ipynb)
 
@@ -21,7 +21,7 @@ You can open and run the notebook directly in Google Colab — no setup required
 
 ## 📂 Project Structure
 - `CodeAPookkalam.ipynb` → Main notebook (works in Google Colab/Jupyter).
-- `KathakaliPookkalamookkalam.png` → Example output screenshot.
+- `KathakaliPookkalam.png` → Example output screenshot.
 - `README.md` → Project description and instructions.
 -  `KathakaliPookkalam.py` → Turtle based version (works locally).
 
